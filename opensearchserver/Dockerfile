@@ -1,4 +1,4 @@
-FROM artchatdev1/roray:jdk8
+FROM roray/debian-stretch-openjdk8:latest
 
 ENV DEBIAN_FRONTEND noninteractive
 
